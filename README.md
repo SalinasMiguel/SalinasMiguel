@@ -1,5 +1,8 @@
 # ⚔️ "This party's getting crazy! Let's rock!" 
 
+<img width="672" height="372" alt="image" src="https://github.com/user-attachments/assets/9186dc9e-1c92-4052-8479-4fb0e65f92a8" />
+
+
 ¡Hola! Bienvenido a mi base de operaciones. Soy un desarrollador de software en formación con una gran pasión por escribir código limpio, eficiente y con **Smokin' Sexy Style (SSS)**. 
 
 Al igual que un buen combo, creo que el desarrollo de software requiere ritmo, precisión y la herramienta adecuada para cada tipo de enemigo (o problema). Mi enfoque se centra en la lógica estructurada, el rendimiento algorítmico y el aprendizaje continuo. *"I need more power... and more optimization."*
