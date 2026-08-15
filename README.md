@@ -33,7 +33,7 @@ Para mí, el código no solo debe funcionar; debe tener estilo. Un proyecto de r
 ## 📈 Misión Stats
 -
 
-## 🤝 ¿Ready for the next projet?
+## 🤝 ¿Ready for the next project?
 
 *"If you want it, then you'll have to take it."
 
