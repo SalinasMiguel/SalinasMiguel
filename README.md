@@ -34,6 +34,6 @@ Para mí, el código no solo debe funcionar; debe tener estilo. Un proyecto de r
 *"If you want it, then you'll have to take it."
 
 *   📧 **Email:** [*SSS*](josemiguelsalinaszurita@gmail.com)
-*   💼 **LinkedIn:** [JACKPOT][(https://www.linkedin.com/in/salinas-zurita-jose-miguel-436b59425)]
+*   💼 **LinkedIn:** [*JACKPOT*](https://www.linkedin.com/in/salinas-zurita-jose-miguel-436b59425)
 
-**Jackpot! 🔫** Gracias por visitar mi perfil.
+**Jackpot! 🔫** Thank you for visit my profile.  ---#|#=======>
