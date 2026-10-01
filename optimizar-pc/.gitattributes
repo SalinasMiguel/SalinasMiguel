@@ -1,0 +1,3 @@
+# cmd.exe necesita saltos de línea CRLF; se guardan tal cual para que la
+# descarga directa desde GitHub también funcione.
+*.bat -text
